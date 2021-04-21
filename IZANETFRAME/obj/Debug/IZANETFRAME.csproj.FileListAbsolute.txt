@@ -1,0 +1,7 @@
+C:\Users\Izabella\source\repos\IZANETFRAME\IZANETFRAME\bin\Debug\IZANETFRAME.exe.config
+C:\Users\Izabella\source\repos\IZANETFRAME\IZANETFRAME\bin\Debug\IZANETFRAME.exe
+C:\Users\Izabella\source\repos\IZANETFRAME\IZANETFRAME\bin\Debug\IZANETFRAME.pdb
+C:\Users\Izabella\source\repos\IZANETFRAME\IZANETFRAME\obj\Debug\IZANETFRAME.csprojAssemblyReference.cache
+C:\Users\Izabella\source\repos\IZANETFRAME\IZANETFRAME\obj\Debug\IZANETFRAME.csproj.CoreCompileInputs.cache
+C:\Users\Izabella\source\repos\IZANETFRAME\IZANETFRAME\obj\Debug\IZANETFRAME.exe
+C:\Users\Izabella\source\repos\IZANETFRAME\IZANETFRAME\obj\Debug\IZANETFRAME.pdb
